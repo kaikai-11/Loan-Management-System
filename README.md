@@ -3,7 +3,7 @@ Login Account:admin
 
 Password:admin123
 
-Get into the loan types page,click the edit button as shown in the image
+Get into the Loan Types page,click the edit button as shown in the image
 
 ![image](https://user-images.githubusercontent.com/56795018/221339147-dee0f0e8-3799-406e-a190-ac58d29b096f.png)
 
