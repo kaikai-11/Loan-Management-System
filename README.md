@@ -14,7 +14,7 @@ Vulnerability location: /Loan/ajax.php?action=save_loan_type HTTP/1.1
 Tested on Windows 10, phpStudy
 
 There is an example with alert:
-'''
+```
 POST /Loan/ajax.php?action=save_loan_type HTTP/1.1
 Host: 10.12.180.79
 Content-Length: 362
@@ -42,7 +42,7 @@ Content-Disposition: form-data; name="description"
 
 test loans
 ------WebKitFormBoundaryl0Dh1LXu5fRCTYLI--
-'''
+```
 
 
 Get into the Loan Types page,click the edit button as shown in the image
